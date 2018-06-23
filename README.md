@@ -18,6 +18,7 @@ DESIGN /TESTING
   2. Test all modules (Therrmometer, Heartrate, Bloodpressure)
 
       a. Thermometer - (DS18B20)
+            http://www.piddlerintheroot.com/temp-sensor-ds18b20/
 
          - code is available online for testing---------------------------------- DONE
 
