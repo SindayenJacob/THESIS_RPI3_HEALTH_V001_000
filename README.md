@@ -10,6 +10,7 @@ DESIGN /TESTING
       a. Account login,signup, and verification
       b. Working Layout  
   2. Test all modules (Therrmometer, Heartrate, Bloodpressure)
+
       a. Thermometer - (DS18B20)
          - code is available online for testing---------------------------------- DONE
          - has been tested to work using the terminal without a gui ------------- NOT DONE
