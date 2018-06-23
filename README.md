@@ -14,6 +14,7 @@ DESIGN /TESTING
          - code is available online for testing---------------------------------- DONE
          - has been tested to work using the terminal without a gui ------------- NOT DONE
       b. Heartrate - 
+            https://tutorials-raspberrypi.com/raspberry-pi-heartbeat-pulse-measuring/
          - code is available online find Circuitrocks.com for data on the module. NOT DONE 
          - has yet to be tested ------------------------------------------------- NOT DONE
       c. BloodPressure
